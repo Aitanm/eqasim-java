@@ -17,6 +17,21 @@
 			<artifactId>core</artifactId>
 			<version>1.0.5</version>
 		</dependency>
+	<dependency>
+            <groupId>org.matsim.contrib</groupId>
+            <artifactId>dvrp</artifactId>
+            <version>11.0</version>
+     </dependency>
+      <dependency>
+            <groupId>ch.ethz.matsim</groupId>
+            <artifactId>baseline_scenario</artifactId>
+            <version>0.3.2</version>
+        </dependency>
+		<dependency>
+			<groupId>org.eqasim</groupId>
+			<artifactId>automated_vehicles</artifactId>
+			<version>1.0.5</version>
+		</dependency>
 	</dependencies>
 
 	<profiles>
